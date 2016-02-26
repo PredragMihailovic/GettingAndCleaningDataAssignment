@@ -10,7 +10,7 @@
 1. Descriptive activities names - replacing integers by factors found in file activity_labels
 1. Change the column names  - make it descriptive
 1. Calculate average for each data set, using plyr library
-1. Write tidy data in file named tidydata.txt
+
 
 * In several lines in code, I delete the memory object that I don't need any more.
 
